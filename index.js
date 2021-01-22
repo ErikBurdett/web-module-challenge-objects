@@ -153,7 +153,7 @@ function getLastReview(array, index){
 console.log(getLastReview(reviews));
 
 // FINISHED WITH MVP
-
+// Upload to GIT
 
 ///////////////🍔☕️🍽 STRETCH🍔☕️🍽////////////////////
 
