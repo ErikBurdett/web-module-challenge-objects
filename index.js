@@ -152,6 +152,8 @@ function getLastReview(array, index){
 }
 console.log(getLastReview(reviews));
 
+// FINISHED WITH MVP
+
 
 ///////////////🍔☕️🍽 STRETCH🍔☕️🍽////////////////////
 
